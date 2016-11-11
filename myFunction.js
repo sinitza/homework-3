@@ -24,7 +24,6 @@ Array.prototype.myMap = function (callback) {
     return newArray;
 }
 
-
 Array.prototype.mySort = function (compareFunction) {
     var i,
         j,
